@@ -4,4 +4,3 @@ Em 4 de junho de 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 b
 
 Além do terminal é possivel trabalhar com o Github pelo próprio site ou pelo Visual Studio Code.
 
-(parei na parte do push pro repositorio esperando a autorização)
