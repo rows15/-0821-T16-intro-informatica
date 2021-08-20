@@ -1,0 +1,19 @@
+Exercício A
+
+    O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+
+    Por que o Git foi criado?
+    Nasce, então, o Git com a proposta de resolver a necessidade de um sistema de distribuição descentralizada, e que seguisse a filosofia de software livre, assim como o Linux, e sem se preocupar em ficar preso a uma ferramenta proprietária que de um dia pro outro os criadores resolvessem comercializá-lo.
+
+Exercício B
+
+    A Microsoft comprou o GitHub, plataforma usada por desenvolvedores para hospedar códigos, por US$ 7,5 bilhões.
+    O GitHub é um repositório popular de projetos de códigos com mais de 10 anos e usado por 28 milhões de desenvolvedores em todo mundo. Também é o espaço em que grandes empresas, como Amazon, Apple e Google, escolhem quando querem mostrar o que estão fazendo.
+
+    A Microsoft, apesar de ser uma das maiores criadores de software proprietário do mundo, é uma das maiores contribuidoras da plataforma. Muitos dos programas da companhia tiveram seus códigos abertos no GitHub, como PowerShell, Visual Studio Code e o motor de JavaScript do navegador Microsoft Edge. A guinada rumo ao código aberto começou com a chegada de Satya Nadella à presidência-executiva da Microsoft.
+
+Exercício C
+
+    O GitHub é gratuito, exigindo apenas um cadastro para utilizar todos os seus recursos. Os projetos são hospedados em “repositórios”, que podem ter acesso público ou privado. Desde a compra pela Microsoft, todos os usuários têm acesso ilimitado a repositórios particulares.
+
+    Tem como acessá-lo por meio do Terminal Git Bash ou Terminal do Linux/MacOS, ou por meio dos comandos no terminal das IDEs, como o VS Code
