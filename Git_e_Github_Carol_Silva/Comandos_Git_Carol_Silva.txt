@@ -1,0 +1,17 @@
+git config -global user.name "nome"
+git config -global user.email "email"
+
+ambos servem para configurar seu user do Git
+
+git init -> inicia um repositorio local
+gi add . -> adicionar arquivos ao git
+git commit -m "" -> cria um commit na linha de tempo
+git branch -m main ou master -> entra na branch principal
+
+git remote add origin "link" -> conecta o repositorio local com o remoto
+
+git push -u origin "branch" -> enviar os arquivos do local para o remoto em tal branch
+
+git pull -> puxa as pastas do repositorio remoto para o local
+
+git clone "link" -> clona o repositorio remoto em seu computador
